@@ -1,0 +1,29 @@
+body {
+    margin: auto;
+    margin-top: 10px;
+    box-sizing: border-box;
+    
+}
+
+.main-content {
+    margin: auto;
+    border: 2px solid black;
+    width: 70%;
+    border-radius: 20px;    
+    background-color: aliceblue;
+}
+
+h1 {
+    font-size: 2.3em;
+    text-align: center;
+    padding-bottom: 25px;
+    border-bottom: 2px solid black;
+}
+
+ul {
+    padding-top: 20px;
+    padding-bottom: 40px;
+    list-style-position: inside;
+    margin: auto;
+    width: max-content;
+}
